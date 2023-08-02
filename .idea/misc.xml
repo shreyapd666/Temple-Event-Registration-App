@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/drawable/ic_home.xml" value="0.172" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_add_pooja.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_daily_report.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_payment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_show_pending_registrations.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_show_pooja_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_show_registrations.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_view_pooja.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/activity_view_registrations.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_admin_pending_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_admin_pooja.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_admin_registration.xml" value="0.18984375" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_daily_report.xml" value="0.253125" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_pooja.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_user.xml" value="0.253125" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_user_pooja.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/item_user_registration.xml" value="0.253125" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/layout/pooja_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/menu/search_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Part 1/Important Datas/Academics/6th Sem/JSS Apps/TempleEventRegistration/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
