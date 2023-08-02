@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161556042926",
+    "project_id": "temple-event-registration",
+    "storage_bucket": "temple-event-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161556042926:android:e4814c2a70affafe67893f",
+        "android_client_info": {
+          "package_name": "com.project.templeeventregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161556042926-imais5i81kb5gggt4lr4h7pif510n9a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFSqLulAEQU9p4pJHvgzxQt5UgYZUUpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161556042926-imais5i81kb5gggt4lr4h7pif510n9a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

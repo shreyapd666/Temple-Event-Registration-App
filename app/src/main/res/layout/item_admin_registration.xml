@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:padding="10dp"
+    android:weightSum="100">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="50">
+
+        <TextView
+            android:id="@+id/iar_pooja_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Pooja Name"
+            android:textSize="20sp"
+            android:textColor="@color/list_item_text_color" />
+
+        <TextView
+            android:id="@+id/iar_pooja_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:text="Pooja Date"
+            android:textColor="@color/list_item_text_color" />
+
+
+        <TextView
+            android:id="@+id/iar_pooja_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:text="Pooja Price"
+            android:textColor="@color/list_item_text_color" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="50">
+
+        <TextView
+            android:id="@+id/iar_user_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:text="User Name"
+            android:textColor="@color/list_item_text_color" />
+
+        <TextView
+            android:id="@+id/iar_user_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:text="User Phone"
+            android:textColor="@color/list_item_text_color" />
+
+        <TextView
+            android:id="@+id/iar_user_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:text="User Email"
+            android:textColor="@color/list_item_text_color" />
+
+    </LinearLayout>
+
+</LinearLayout>
